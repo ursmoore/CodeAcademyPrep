@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    background: url(https://filmcolors.org/wp-content/uploads/2019/09/Koshofer_67_KodachromeReversal_16mm_1938_IMG_0182_1.jpg);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(255, 0, 0);
+    
+}
+
+main {
+    background: mintcream;
+    opacity: 95%;
+    padding: 5px 40px;
+    margin-top: 60px;
+    border-radius: 10px;
+    text-align: center
+}
+
+button {
+    background-color: #fffb00; /* Yellow */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
