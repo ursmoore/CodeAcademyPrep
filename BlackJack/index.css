@@ -1,0 +1,36 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("images/TableCloth.gif");
+    background-size: cover;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h1 {
+    color: blue;
+    font-size: 40px;
+}
+
+#message-el {
+    font-style: bold;
+}
+
+button {
+    color: #fffb00; /* Yellow */
+    width: 500px;
+    border: none;
+    border-radius: 10px;
+    background: rgb(0, 0, 0);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    text-decoration: dotted;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+  }
+
